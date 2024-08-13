@@ -11,7 +11,7 @@ So we decided to deal with this problem.
 - It will also provide summary of news articles which will help the users to understand news properly with speech recognition system enabled.
 
 ### Working
-![working](https://github.com/Guardians-of-Engineering/hackofiesta2_DRDP/blob/main/images/Clean%20Bulletin%20Algorithm.png)
+![working](https://github.com/devgupta2607/TrueLens/blob/main/images/Clean%20Bulletin%20Algorithm.png)
 
 ## Image Investigator
 - It will help users to find authenticity in the image provided to Investigator by providing them with a binary mask image highlighting manipulated regions in the image.
@@ -19,13 +19,13 @@ So we decided to deal with this problem.
 - This is very useful during crime investigations where the criminal tries to escape by manipulating evidence.
 
 ### Model
-![model](https://github.com/Guardians-of-Engineering/hackofiesta2_DRDP/blob/main/images/Clean%20Image%20Model.png)
+![model](https://github.com/devgupta2607/TrueLens/blob/main/images/Clean%20Image%20Model.png)
 
 ## Review Investigator
 - It will help users to find authentic reviews for the product they are searching for and make an informed purchase.
 
 ### Model
-![model](https://github.com/Guardians-of-Engineering/hackofiesta2_DRDP/blob/main/images/Clean%20Reviews%20Architecture.png)
+![model](https://github.com/devgupta2607/TrueLens/blob/main/images/Clean%20Reviews%20Architecture.png)
 
 ## Tech Stack
 - Python
@@ -39,9 +39,9 @@ So we decided to deal with this problem.
 - scikit-learn
 
 ## Screenshots
-![img1](https://github.com/Guardians-of-Engineering/Fake-Analyzer/blob/main/images/Home%20Page.jpeg)
-![img2](https://github.com/Guardians-of-Engineering/Fake-Analyzer/blob/main/images/News%20Investigator%201.jpeg)
-![img3](https://github.com/Guardians-of-Engineering/Fake-Analyzer/blob/main/images/News%20Investigator%202.jpeg)
-![img4](https://github.com/Guardians-of-Engineering/Fake-Analyzer/blob/main/images/Image%20Investigator%202.jpeg)
-![img5](https://github.com/Guardians-of-Engineering/Fake-Analyzer/blob/main/images/Image%20Investigator%201.jpeg)
-![img6](https://github.com/Guardians-of-Engineering/Fake-Analyzer/blob/main/images/Review%20Investigator.jpeg)
+![img1](https://github.com/devgupta2607/TrueLens/blob/main/images/Home%20Page.jpeg)
+![img2](https://github.com/devgupta2607/TrueLens/blob/main/images/News%20Investigator%201.jpeg)
+![img3](https://github.com/devgupta2607/TrueLens/blob/main/images/News%20Investigator%202.jpeg)
+![img4](https://github.com/devgupta2607/TrueLens/blob/main/images/Image%20Investigator%202.jpeg)
+![img5](https://github.com/devgupta2607/TrueLens/blob/main/images/Image%20Investigator%201.jpeg)
+![img6](https://github.com/devgupta2607/TrueLens/blob/main/images/Review%20Investigator.jpeg)
