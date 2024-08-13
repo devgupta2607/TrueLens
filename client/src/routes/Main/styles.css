@@ -1,0 +1,19 @@
+#link-box {
+  display: block;
+  height: auto;
+  width: 500px;
+}
+.nav-btns {
+  margin: 5px;
+  padding: 20px;
+  background: #7fcfcfaa;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+#link-box a {
+  text-decoration: none;
+  color: white;
+}
